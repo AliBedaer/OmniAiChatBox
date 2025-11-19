@@ -1,0 +1,5 @@
+{
+  "name": "OmniChat Desktop",
+  "description": "A professional, cross-platform style chat interface configurable with Gemini and capable of managing multiple chat sessions and system configurations.",
+  "requestFramePermissions": []
+}

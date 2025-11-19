@@ -1,0 +1,21 @@
+{
+  "name": "OmniChat AI Desktop",
+  "short_name": "OmniChat",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#343541",
+  "theme_color": "#343541",
+  "description": "A professional, cross-platform AI chat interface.",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f916.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f916.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
